@@ -40,6 +40,6 @@ project.ext {
     libsu_version = "5.0.3"
     material_version = "1.7.0"
     refine_version = "3.0.3"
-    room_version = "2.4.3"
+    room_version = "2.5.0"
     splashscreen_version = "1.0.0"
 }
