@@ -1313,4 +1313,5 @@
     <string name="action_continue">Continue</string>
     <string name="install_for_another_user">Install for…</string>
     <string name="confirm_uninstallation">Confirm uninstallation</string>
+    <string name="activity_name">Activity Name</string>
 </resources>
